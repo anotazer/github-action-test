@@ -1,0 +1,41 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/kwnoyng/Desktop/github-action-test/src/main/java:/Users/kwnoyng/Desktop/github-action-test/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/kwnoyng/Desktop/github-action-test/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'github-action-test 0.0.1 API'
+-use
+-version
+-windowtitle
+'github-action-test 0.0.1 API'
+io.github.anotazer.githubactiontest
+/Users/kwnoyng/Desktop/github-action-test/src/main/java = 1729777489000
+/Users/kwnoyng/Desktop/github-action-test/target/generated-sources/annotations = 1729779204302
+/Users/kwnoyng/Desktop/github-action-test/target/apidocs/tag-search-index.js = 1729779205437
+/Users/kwnoyng/Desktop/github-action-test/target/apidocs/overview-tree.html = 1729779205431
+/Users/kwnoyng/Desktop/github-action-test/target/apidocs/module-search-index.js = 1729779205437
+/Users/kwnoyng/Desktop/github-action-test/target/apidocs/index.html = 1729779205441
+/Users/kwnoyng/Desktop/github-action-test/target/apidocs/package-search-index.js = 1729779205437
+/Users/kwnoyng/Desktop/github-action-test/target/apidocs/jquery-ui.overrides.css = 1729779205448
+/Users/kwnoyng/Desktop/github-action-test/target/apidocs/index-all.html = 1729779205440
+/Users/kwnoyng/Desktop/github-action-test/target/apidocs/allpackages-index.html = 1729779205436
+/Users/kwnoyng/Desktop/github-action-test/target/apidocs/member-search-index.js = 1729779205437
+/Users/kwnoyng/Desktop/github-action-test/target/apidocs/script.js = 1729779205444
+/Users/kwnoyng/Desktop/github-action-test/target/apidocs/stylesheet.css = 1729779205443
+/Users/kwnoyng/Desktop/github-action-test/target/apidocs/help-doc.html = 1729779205442
+/Users/kwnoyng/Desktop/github-action-test/target/apidocs/element-list = 1729779205422
+/Users/kwnoyng/Desktop/github-action-test/target/apidocs/allclasses-index.html = 1729779205436
+/Users/kwnoyng/Desktop/github-action-test/target/apidocs/type-search-index.js = 1729779205437
+/Users/kwnoyng/Desktop/github-action-test/target/apidocs/search.js = 1729779205444
